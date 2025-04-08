@@ -4,6 +4,16 @@
 ![image](https://github.com/user-attachments/assets/839539a9-d63c-448a-810f-3ca67e8a7d0e)
 
 ### Overview
+In this room, we will learn the following:
+- What is Defensive Security and what does it entail?
+- How to learn more about Defensive Security
+- Different branches of Defensive Security
+- How to use SIEMs
+- Different careers in Defensive Security
+- What a day in the life of a SOC Team Member looks like
+
+In this room we will use the following tools:
+No tools are used for this room.
 
 ### Task 1 - Introduction to Defensive Security
 In the previous room, we learned about offensive security, which aims to identify and exploit system vulnerabilities to enhance security measures. This includes exploiting software bugs, leveraging insecure setups, and taking advantage of unenforced access control policies, among other strategies. Red teams and penetration testers specialize in these offensive techniques.
@@ -56,7 +66,7 @@ A <i>Security Operations Center</i> (SOC) is a team of cyber security profession
 
 ![image](https://github.com/user-attachments/assets/0c9c4058-3d63-48f8-9e26-829333aa1ccf)
 
-#### Threat Intelligence
+##### Threat Intelligence
 In this context, <i>intelligence</i> refers to information you gather about actual and potential enemies. A <i>threat</i> is any action that can disrupt or adversely affect a system. Threat intelligence collects information to help the company better prepare against potential adversaries. The purpose would be to achieve a <i>threat-informed defence</i>. Different companies have different adversaries. Some adversaries might seek to steal customer data from a mobile operator; however, other adversaries are interested in halting the production in a petroleum refinery. Example adversaries include a nation-state cyber army working for political reasons and a ransomware group acting for financial purposes. Based on the company (target), we can expect adversaries.
 
 ![image](https://github.com/user-attachments/assets/d1ef89d8-d4ae-4d7c-b7d2-8c8978980ff5)
@@ -184,3 +194,13 @@ After blocking the IP address, we are given our flag, <i>THM{THREAT-BLOCKED}</i>
 ![image](https://github.com/user-attachments/assets/5170e104-a95a-421b-adc2-db9520b79248)
 
 We can then close the static site and insert our flag into the answer field.
+
+### Reflection
+
+In this room, we learned the basics of what Defensive Security entails.
+
+We learned how to read a SIEM and find suspicious activity, report this activity, and strengthen a network through blocking IP addresses. The example we were given was only the tip of the iceberg when looking at SIEMs; there is much more to know about them, so keep learning!
+
+We also learned about all of the available fields in Defensive Security, such as DFIR and SOC, and what they do on a daily basis.
+
+Congratulations for completing this room! Keep progressing through the vast world of cyber security!
