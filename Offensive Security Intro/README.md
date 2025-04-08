@@ -13,8 +13,7 @@ In this room, we will learn the following:
 - Different careers in Offensive Security
 
 In this room we will use the following tools:
-- Gobuster
--- Command line tool to enumerate subdirectories in web servers
+- Gobuster - Command line tool to enumerate subdirectories in web servers
 
 ### Task 1 - What is Offensive Security?
 
