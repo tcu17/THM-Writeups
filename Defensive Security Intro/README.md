@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89f08a4a-15d1-4e46-acc2-72ef20ccc216)# Defensive Security Intro
+# Defensive Security Intro
 ## Thomas Urbain - April 7, 2025
 
 ![image](https://github.com/user-attachments/assets/839539a9-d63c-448a-810f-3ca67e8a7d0e)
