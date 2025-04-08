@@ -12,7 +12,7 @@ In this room, we will learn the following:
 - Basic Linux terminal commands used in Offensive Security
 - Different careers in Offensive Security
 
-In this room we used the following tools:
+In this room we will use the following tools:
 - Gobuster
 -- Command line tool to enumerate subdirectories in web servers
 
